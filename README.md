@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rikerahayu
 - 👀 I’m interested in literacy
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on language, social science and Education
+- 💞️ I’m looking to collaborate on Language, Social Science and Education
 - 📫 How to reach me rikerahayu1415@gmail.com
 
 <!---
